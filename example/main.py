@@ -1,2 +1,2 @@
-def main(name: str) -> None:
-    print(f"Hello {name}")
+def main(name: str, title: str) -> None:
+    print(f"Hello {title} {name}")
